@@ -1,3 +1,3 @@
 # Twist-in-quiz
 A short quiz game using HTML , CSS , Javascript.
-not completed yet.
+/nnot completed yet.
