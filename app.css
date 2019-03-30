@@ -11,10 +11,7 @@
     color: #333;
 }
 
-h1,
-h2,
-h3,
-h4 {
+h1,h2,h3,h4 {
     margin-bottom: 1rem;
 }
 
@@ -40,7 +37,7 @@ h3 {
     font-weight: 500;
 }
 
-/* UTILITIES */
+
 
 .container {
     width: 100vw;
@@ -80,7 +77,6 @@ h3 {
     display: none;
 }
 
-/* BUTTONS */
 .btn {
     font-size: 1.8rem;
     padding: 1rem 0;
@@ -96,7 +92,7 @@ h3 {
 .btn:hover {
     cursor: pointer;
     box-shadow: 0 0.4rem 1.4rem 0 rgba(86, 185, 235, 0.5);
-    transform: translateY(-0.1rem);
+    
     transition: transform 150ms;
 }
 
